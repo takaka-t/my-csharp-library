@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryForBasicDataTypes", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryOfMain", "LibraryOfMain\LibraryOfMain.csproj", "{6921E313-DC3D-4CA7-8C6E-847D89DAC83E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryOfMainTest", "LibraryOfMainTest\LibraryOfMainTest.csproj", "{2578C32F-F71C-4111-9335-CFC46C1093FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6921E313-DC3D-4CA7-8C6E-847D89DAC83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6921E313-DC3D-4CA7-8C6E-847D89DAC83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6921E313-DC3D-4CA7-8C6E-847D89DAC83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2578C32F-F71C-4111-9335-CFC46C1093FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2578C32F-F71C-4111-9335-CFC46C1093FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2578C32F-F71C-4111-9335-CFC46C1093FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2578C32F-F71C-4111-9335-CFC46C1093FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibraryForBasicDataTypes.Extension
+namespace Extension.BasicDataType
 {
+
     /// <summary>
     /// String型拡張
     /// </summary>
@@ -33,4 +34,5 @@ namespace LibraryForBasicDataTypes.Extension
         }
 
     }
+
 }
