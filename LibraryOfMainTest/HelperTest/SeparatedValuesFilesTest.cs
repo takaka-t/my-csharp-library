@@ -1,4 +1,5 @@
 ﻿using System;
+using Xunit;
 
 namespace Helper
 {
@@ -11,7 +12,7 @@ namespace Helper
         /// <summary>
         /// 取込
         /// </summary>
-        public static void Import()
+        public static void ImportTest()
         {
             throw new NotImplementedException();
         }
@@ -19,7 +20,7 @@ namespace Helper
         /// <summary>
         /// 出力
         /// </summary>
-        public static void Export()
+        public static void ExportTest1()
         {
             throw new NotImplementedException();
         }
@@ -27,7 +28,7 @@ namespace Helper
         /// <summary>
         /// 出力
         /// </summary>
-        public static void Export<T>()
+        public static void ExportTest2()
         {
             throw new NotImplementedException();
         }

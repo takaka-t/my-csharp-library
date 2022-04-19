@@ -1,5 +1,4 @@
 ﻿using System;
-using Extension.BasicDataType;
 using Xunit;
 
 namespace LibraryOfMainTest.Extention

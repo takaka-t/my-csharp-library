@@ -25,9 +25,13 @@
   <ItemGroup>
     <None Remove="Extention\" />
     <None Remove="Extention\BasicDataType\" />
+    <None Remove="BestPractice\" />
+    <None Remove="Heloer\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Extention\" />
     <Folder Include="Extention\BasicDataType\" />
+    <Folder Include="BestPractice\" />
+    <Folder Include="HelperTest\" />
   </ItemGroup>
 </Project>
